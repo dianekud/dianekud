@@ -14,17 +14,17 @@
 - Jira, Confluence
 - Ягодичный мостик (40 кг)
 
-### Где работаю?
+### 🏊‍♀️ Где работаю?
 soon
 
-### Образование
+### 🎓 Образование
 soon
 
-### Сертификаты
+### 📚 Сертификаты
 soon
 
 ### Связаться со мной
-<kbd><img src="https://companieslogo.com/img/orig/telegram-app-cdf6a49f.png?t=1720244494" width="20" height="20" /></kbd> [@dianekud](t.me/dianekud)
+[<kbd><img src="https://companieslogo.com/img/orig/telegram-app-cdf6a49f.png?t=1720244494" width="20" height="20" /></kbd>](t.me/dianekud) [@dianekud](t.me/dianekud)
 
 <kbd><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mail_ru_logo_icon_145089.png" 
 width="20" 
