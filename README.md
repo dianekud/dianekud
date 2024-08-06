@@ -1,4 +1,4 @@
-## Привет! Я - Диана, начинающий аналитик данных <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30" height="30" />
+## Привет! Я - Диана, начинающий аналитик данных 
 
 ### 👩‍🏭 Посмотреть мои работы? Чиназес, [сюда](https://github.com/dianekud/analyst)
 
@@ -30,5 +30,5 @@ soon
 width="20" 
 height="20" /></kbd> dianekud@mail.ru
 
-R
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh4Y3NpMXEwZXlwbjJpNjlva3pubDBzNG04N3B5eG42Zm1mZmk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5exwXWg9u7yow/giphy.webp">
 
