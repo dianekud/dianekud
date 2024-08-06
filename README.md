@@ -2,7 +2,8 @@
 
 ### 👩‍🏭 Посмотреть мои работы? Чиназес, [сюда](https://github.com/dianekud/analyst)
 
-### 🥷 Что умею?
+### 🥷 Что умею? <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" width="20" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Debian.svg" width="20" height="20" /> <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="20" height="20" /> 
+
 
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly)
 - SQL (ClickHouse (Tabix), PostgreSQL (DBeaver), MySQL) – сложные join’ы, оконные функции, подзапросы, представления и т.д.
