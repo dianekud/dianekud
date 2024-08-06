@@ -1,4 +1,4 @@
-## Привет! Я - Диана, начинающий аналитик данных 
+## Привет! Я - Диана, аналитик данных 🏄‍♀️
 
 ### 👩‍🏭 Посмотреть мои работы? Чиназес, [сюда](https://github.com/dianekud/analyst)
 
@@ -23,12 +23,12 @@ soon
 ### 📚 Сертификаты
 soon
 
-### Связаться со мной
-[<kbd><img src="https://companieslogo.com/img/orig/telegram-app-cdf6a49f.png?t=1720244494" width="20" height="20" /></kbd>](https://t.me/dianekud) [@dianekud](https://t.me/dianekud)
+### 🛸 Связаться со мной
+[<kbd><img src="https://companieslogo.com/img/orig/telegram-app-cdf6a49f.png?t=1720244494" width="20" height="20" /></kbd>](https://t.me/dianekud/) [@dianekud](https://t.me/dianekud/)
 
 <kbd><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mail_ru_logo_icon_145089.png" 
 width="20" 
 height="20" /></kbd> dianekud@mail.ru
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh4Y3NpMXEwZXlwbjJpNjlva3pubDBzNG04N3B5eG42Zm1mZmk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5exwXWg9u7yow/giphy.webp">
+[<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh4Y3NpMXEwZXlwbjJpNjlva3pubDBzNG04N3B5eG42Zm1mZmk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5exwXWg9u7yow/giphy.webp">](https://teddyfood.com/ru/)
 
