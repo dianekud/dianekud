@@ -26,10 +26,6 @@
     - 11.05.01 "Радиолокационные системы и комплексы"
 
 
-
-### 📚 Сертификаты
-soon
-
 ### 🛸 Связаться со мной
 [<kbd><img src="https://companieslogo.com/img/orig/telegram-app-cdf6a49f.png?t=1720244494" width="20" height="20" /></kbd>](https://t.me/dianekud/) [@dianekud](https://t.me/dianekud/)
 
